@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
 
       title: 'Urdu app for Numeric and Date expression',
       debugShowCheckedModeBanner: false,
-//here we will navigate to Splash Screen
+
       home: SplashPage(),
     );
   }

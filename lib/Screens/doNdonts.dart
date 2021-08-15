@@ -53,9 +53,8 @@ class doNdonts extends StatelessWidget {
                             color: Colors.yellowAccent,
                           )
                       ),
-                      Text("1. Don\'t pass empty String in the Text field.\n2. Don\'t use multiple languages in one text field.\n3. Don\'t use multiple lines in one text field."
+                      Text('1. Don\'t pass empty String in the Text field.\n2. Don\'t use multiple languages in one text field.'
                           ,textScaleFactor: 1.5,style: TextStyle(color: Colors.white)),
-                      Text("\nTHANK YOU FOR READING THIS DOCUMENT",textScaleFactor: 1.5,textAlign: TextAlign.center,style: TextStyle(color: Colors.amberAccent)),
                     ],
                   ))
             ],

@@ -22,7 +22,7 @@ class _SplashPageState extends State<SplashPage> {
           color: Colors.white
       ),
       ),
-      loadingText: Text("Loading",
+      loadingText: Text("Loading....",
           style: TextStyle(
           fontSize: 20.0,
           color: Colors.white
